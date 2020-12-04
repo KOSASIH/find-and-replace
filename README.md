@@ -36,7 +36,7 @@ This example showcases the regex and advanced replacement functionality. This co
 	Enter the pages to be edited, separated by spaces.
 	To list all pages, enter "pages".
 	To edit all pages, enter "all".
-	**all**
+	all
 	Enter the string to search (regex syntax is valid!): (r\/spacex\/)([a-zA-Z0-9]{6}[\/)])
 	Ignore case? ("y"/"n"): y
 	Enter the string to replace each instance with. For advanced functionality, enter "!ADV!": !ADV!
